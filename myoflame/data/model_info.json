@@ -1,0 +1,16 @@
+{
+ "name": "MyoFLAME",
+ "version": "1.0.0",
+ "flame_version": "FLAME 2020",
+ "n_muscles": 50,
+ "jaw_open_range_deg": [
+  0.0,
+  20.0
+ ],
+ "jaw_lateral_range_deg": [
+  -12.000000000000002,
+  12.000000000000002
+ ],
+ "observed_vertices": 3931,
+ "surrogate_training": "inverse-physics activations of 218 FACS-coded D3DFACS expressions on 1,211 LYHM identities"
+}

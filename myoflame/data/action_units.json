@@ -1,0 +1,247 @@
+{
+ "AU1": {
+  "name": "Inner Brow Raiser",
+  "muscles": [
+   "Frontalis_Inner_L",
+   "Frontalis_Inner_R"
+  ]
+ },
+ "AU2": {
+  "name": "Outer Brow Raiser",
+  "muscles": [
+   "Frontalis_Outer_L",
+   "Frontalis_Outer_R"
+  ]
+ },
+ "AU4": {
+  "name": "Brow Lowerer",
+  "muscles": [
+   "Corrugator_Supercilii_L",
+   "Corrugator_Supercilii_R",
+   "Depressor_Supercilii_L",
+   "Depressor_Supercilii_R",
+   "Procerus_L",
+   "Procerus_R"
+  ]
+ },
+ "AU5": {
+  "name": "Upper Lid Raiser",
+  "muscles": [
+   "Levator_Palpebrae_Superioris_L",
+   "Levator_Palpebrae_Superioris_R"
+  ]
+ },
+ "AU6": {
+  "name": "Cheek Raiser",
+  "muscles": [
+   "Orbicularis_Oculi_Orbital_L",
+   "Orbicularis_Oculi_Orbital_R"
+  ]
+ },
+ "AU7": {
+  "name": "Lid Tightener",
+  "muscles": [
+   "Orbicularis_Oculi_Palpebral_L",
+   "Orbicularis_Oculi_Palpebral_R"
+  ]
+ },
+ "AU9": {
+  "name": "Nose Wrinkler",
+  "muscles": [
+   "Levator_Labii_Superioris_Alaeque_Nasi_L",
+   "Levator_Labii_Superioris_Alaeque_Nasi_R",
+   "Procerus_L",
+   "Procerus_R"
+  ]
+ },
+ "AU10": {
+  "name": "Upper Lip Raiser",
+  "muscles": [
+   "Levator_Labii_Superioris_L",
+   "Levator_Labii_Superioris_R"
+  ]
+ },
+ "AU11": {
+  "name": "Nasolabial Deepener",
+  "muscles": [
+   "Zygomaticus_Minor_L",
+   "Zygomaticus_Minor_R"
+  ]
+ },
+ "AU12": {
+  "name": "Lip Corner Puller",
+  "muscles": [
+   "Zygomaticus_Major_L",
+   "Zygomaticus_Major_R"
+  ]
+ },
+ "AU13": {
+  "name": "Sharp Lip Puller",
+  "muscles": [
+   "Levator_Anguli_Oris_L",
+   "Levator_Anguli_Oris_R"
+  ]
+ },
+ "AU14": {
+  "name": "Dimpler",
+  "muscles": [
+   "Buccinator_L",
+   "Buccinator_R"
+  ]
+ },
+ "AU15": {
+  "name": "Lip Corner Depressor",
+  "muscles": [
+   "Depressor_Anguli_Oris_L",
+   "Depressor_Anguli_Oris_R"
+  ]
+ },
+ "AU16": {
+  "name": "Lower Lip Depressor",
+  "muscles": [
+   "Depressor_Labii_Inferioris_L",
+   "Depressor_Labii_Inferioris_R"
+  ]
+ },
+ "AU17": {
+  "name": "Chin Raiser",
+  "muscles": [
+   "Mentalis_L",
+   "Mentalis_R"
+  ]
+ },
+ "AU18": {
+  "name": "Lip Pucker",
+  "muscles": [
+   "Orbicularis_Oris_upper_L",
+   "Orbicularis_Oris_upper_R",
+   "Orbicularis_Oris_lower_L",
+   "Orbicularis_Oris_lower_R"
+  ]
+ },
+ "AU20": {
+  "name": "Lip Stretcher",
+  "muscles": [
+   "Risorius_L",
+   "Risorius_R",
+   "Platysma_L",
+   "Platysma_R"
+  ]
+ },
+ "AU21": {
+  "name": "Neck Tightener",
+  "muscles": [
+   "Platysma_L",
+   "Platysma_R"
+  ]
+ },
+ "AU22": {
+  "name": "Lip Funneler",
+  "muscles": [
+   "Orbicularis_Oris_upper_L",
+   "Orbicularis_Oris_upper_R",
+   "Orbicularis_Oris_lower_L",
+   "Orbicularis_Oris_lower_R"
+  ]
+ },
+ "AU23": {
+  "name": "Lip Tightener",
+  "muscles": [
+   "Orbicularis_Oris_upper_L",
+   "Orbicularis_Oris_upper_R",
+   "Orbicularis_Oris_lower_L",
+   "Orbicularis_Oris_lower_R"
+  ]
+ },
+ "AU24": {
+  "name": "Lip Pressor",
+  "muscles": [
+   "Orbicularis_Oris_upper_L",
+   "Orbicularis_Oris_upper_R",
+   "Orbicularis_Oris_lower_L",
+   "Orbicularis_Oris_lower_R"
+  ]
+ },
+ "AU25": {
+  "name": "Lips Part",
+  "muscles": [
+   "Depressor_Labii_Inferioris_L",
+   "Depressor_Labii_Inferioris_R"
+  ]
+ },
+ "AU26": {
+  "name": "Jaw Drop",
+  "muscles": [
+   "Digastric_L",
+   "Digastric_R"
+  ]
+ },
+ "AU27": {
+  "name": "Mouth Stretch",
+  "muscles": [
+   "Digastric_L",
+   "Digastric_R"
+  ]
+ },
+ "AU28": {
+  "name": "Lip Suck",
+  "muscles": [
+   "Orbicularis_Oris_upper_L",
+   "Orbicularis_Oris_upper_R",
+   "Orbicularis_Oris_lower_L",
+   "Orbicularis_Oris_lower_R"
+  ]
+ },
+ "AU38": {
+  "name": "Nostril Dilator",
+  "muscles": [
+   "Transverse_Nasalis_L",
+   "Transverse_Nasalis_R"
+  ]
+ },
+ "AU39": {
+  "name": "Nostril Compressor",
+  "muscles": [
+   "Transverse_Nasalis_L",
+   "Transverse_Nasalis_R"
+  ]
+ },
+ "AU41": {
+  "name": "Lid Droop",
+  "muscles": []
+ },
+ "AU43": {
+  "name": "Eyes Closed",
+  "muscles": [
+   "Orbicularis_Oculi_Palpebral_L",
+   "Orbicularis_Oculi_Palpebral_R"
+  ]
+ },
+ "AU44": {
+  "name": "Squint",
+  "muscles": [
+   "Orbicularis_Oculi_Orbital_L",
+   "Orbicularis_Oculi_Orbital_R",
+   "Orbicularis_Oculi_Palpebral_L",
+   "Orbicularis_Oculi_Palpebral_R",
+   "Corrugator_Supercilii_L",
+   "Corrugator_Supercilii_R"
+  ]
+ },
+ "AU45": {
+  "name": "Blink",
+  "muscles": [
+   "Orbicularis_Oculi_Palpebral_L",
+   "Orbicularis_Oculi_Palpebral_R"
+  ]
+ },
+ "AU46": {
+  "name": "Wink",
+  "muscles": [
+   "Orbicularis_Oculi_Orbital_L",
+   "Orbicularis_Oculi_Orbital_R",
+   "Orbicularis_Oculi_Palpebral_L",
+   "Orbicularis_Oculi_Palpebral_R"
+  ]
+ }
+}

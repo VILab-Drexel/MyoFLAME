@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "myoflame"
+version = "1.0.0"
+description = "Muscle activations and muscle-driven skin for the FLAME 3D head model"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+authors = [
+  { name = "Yixuan Shen" }, { name = "Yuyang Ji" }, { name = "Ren Wang" }, { name = "Kaidi Xu" }, { name = "Feng Liu" },
+]
+dependencies = ["numpy>=1.24", "scipy>=1.10", "torch>=2.1"]
+
+[tool.setuptools]
+packages = ["myoflame"]
+
+[tool.setuptools.package-data]
+myoflame = ["data/*.npz", "data/*.pt", "data/*.json"]

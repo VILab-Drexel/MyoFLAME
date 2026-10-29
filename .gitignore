@@ -1,0 +1,16 @@
+# FLAME is licensed separately and is never committed
+model/FLAME2020/*.pkl
+model/FLAME2020/*.zip
+# demo output
+output/
+*.obj
+# Python
+__pycache__/
+*.egg-info/
+.venv/
+build/
+dist/
+.ruff_cache/
+# FLAME-derived viewer data, written by demos/build_viewer_data.py from your own FLAME file
+viewer/data/flame.bin
+viewer/data/verify.bin

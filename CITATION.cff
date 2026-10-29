@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use MyoFLAME, please cite the paper below."
+title: "MyoFLAME"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Shen
+    given-names: Yixuan
+    orcid: "https://orcid.org/0009-0002-7653-0158"
+  - family-names: Ji
+    given-names: Yuyang
+    orcid: "https://orcid.org/0009-0005-8483-9659"
+  - family-names: Wang
+    given-names: Ren
+    orcid: "https://orcid.org/0000-0002-6366-8898"
+  - family-names: Xu
+    given-names: Kaidi
+    orcid: "https://orcid.org/0000-0003-4437-0671"
+  - family-names: Liu
+    given-names: Feng
+    orcid: "https://orcid.org/0000-0003-2103-4659"
+preferred-citation:
+  type: conference-paper
+  title: "MyoFLAME: Inverse-Physics Muscle Activation for Statistical 3D Face Models"
+  authors:
+    - family-names: Shen
+      given-names: Yixuan
+    - family-names: Ji
+      given-names: Yuyang
+    - family-names: Wang
+      given-names: Ren
+    - family-names: Xu
+      given-names: Kaidi
+    - family-names: Liu
+      given-names: Feng
+  collection-title: "ACM SIGGRAPH Asia Conference on Computer Graphics and Interactive Techniques (SIGGRAPH Asia)"
+  year: 2026
+  doi: "10.1145/3829340.3842189"
